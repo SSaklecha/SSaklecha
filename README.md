@@ -6,11 +6,10 @@
 I'm passionate about leveraging data to drive insights and solve complex problems. Currently pursuing my Master's in Data Analytics at San Jose State University, I bring hands-on experience in data migration, big data technologies, and analytics from my roles at Infosys, JoulestoWatts and Core Molding Technologies.
 
 ## 💼 Professional Experience
-- **Data and Business Analytics Intern** at Coherent Corp (June '24 - Aug '24)
-- **Big Data Analytics Intern** at Eviden (Jan '24 - May '24)
-- **Senior Data Migration Engineer** at Chargebee (Nov '20 - Dec '22)
-- **Data Migration Consultant** at Syniti (Mar '20 - Oct '20)
-- **Project Engineer** at Wipro (May '18 - Mar '20)
+- **Data Analyst and Engineer** at Core Molding Technologies (June '22 - Jan '23)
+- **Business Analyst** at JoulestoWatts (Apr '22 - June '22)
+- **Systems Analyst** at Infosys (Oct '20 - Apr '22)
+
 
 ## 🛠 Skills
 
@@ -65,14 +64,14 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other lenders, cutting out the financial institution as the middleman. This study compares the Synthetic Minority Over-sampling Technique (SMOTE) and generative AI for data synthesis to mitigate prediction bias in skewed datasets. Ensemble models, including Logistic Regression, SVM, KNN, and Random Forest, were used, with XGBoost outperforming others in accuracy and F1-score. Both SMOTE and GenAI synthesis demonstrated high performance in risk prediction.
 
 ## 🌟 Featured Projects
-1. **Analysis of Moderation in VTuber Streams** (Aug '23 - Dec '23)
+1. **Formula 1 Analytics Dashboard** (Jan '23 - May '23)
 2. **Subscription Churn Rate Prediction for OTT Platform** (Jan '24 - May '24)
-3. **Decoding User Review Sentiment Using XLNet** (Sep '23 - Dec '23)
-4. **Sports Analytics: Performance Evaluation of Players in Indian Premier League** (Feb '23 - Apr '23)
+3. **Optimizing Ride-Hailing: A Deep Dive Into Taxi Hailing Data from New York** (Sep '23 - Dec '23)
+4. **ParaChecker - Quora Paraphrase detection using Deep Learning** (Jan '24 - May '24)
 
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethaneha.sivakumar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-neha/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saklechasourab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabsakleccha/)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
 
