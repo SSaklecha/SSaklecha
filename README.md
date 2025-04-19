@@ -1,15 +1,9 @@
 # Sourab Saklecha [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabsaklecha/)
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sourab, a Data Engineer/Data Analyst with over two years of experience in Data Engineering, Analytics and Science!
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sourab, a Data Professional with three years of experience in Data Engineering and Analytics!
 
 ## 🚀 About Me
-I'm passionate about leveraging data to drive insights and solve complex problems. Currently pursuing my Master's in Data Analytics at San Jose State University, I bring hands-on experience in data migration, big data technologies, and analytics from my roles at Infosys, JoulestoWatts and Core Molding Technologies.
-
-## 💼 Professional Experience
-- **Data Analyst and Engineer** at Core Molding Technologies (June '22 - Jan '23)
-- **Business Analyst** at JoulestoWatts (Apr '22 - June '22)
-- **Systems Analyst** at Infosys (Oct '20 - Apr '22)
-
+I'm passionate about leveraging data to drive insights and solve complex problems. Recently graduated with a Master's in Data Analytics from San Jose State University, I bring hands-on experience in data migration, big data technologies, and analytics from my roles at Infosys, JoulestoWatts and Core Molding Technologies.
 
 ## 🛠 Skills
 
@@ -55,7 +49,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 ****Project & Task Management Tools:**** [![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ## 📚 Education
-- **M.S. in Data Analytics** - San Jose State University (Expected Dec '24)
+- **M.S. in Data Analytics** - San Jose State University (Jan '23 - Dec '24)
 - **B.E. in Computer Science and Engineering** - Anna University (May '14 - Apr '18)
 
 ## 🏆 Publications
